@@ -1,0 +1,28 @@
+name: glenlewis
+favicon: null
+layout_spectrum: 0.6086464852560312
+typography_spectrum: 0.7760368611197919
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5931894474197179
+  lightness: 0.4936400093138218
+  saturation: 0.3958476562984288
+  rhythmicContrast: 0.38602895266376436
+purpose: []
